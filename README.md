@@ -132,6 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Ahmad Jilani - [LinkedIn](https://linkedin.com/in/ahmadjilani) - ahmad.jilani@example.com
+Ahmad Jilani - [LinkedIn](https://linkedin.com/in/ahmadjilani) 
 
 Project Link: [https://github.com/ahmadjilani1/shopease](https://github.com/ahmadjilani1/shopease)
